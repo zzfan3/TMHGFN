@@ -13,10 +13,10 @@ Setup
 Install dependencies:
 
 bash
-复制代码
+
 pip install -r requirements.txt
 Run the Model:
 
 bash
-复制代码
+
 python main.py
